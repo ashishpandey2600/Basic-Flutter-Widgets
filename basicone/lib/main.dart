@@ -1,4 +1,5 @@
 import 'package:basicone/screens/homepage.dart';
+import 'package:basicone/screens/secondScreem.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: HomePage(),
+      home: SecondScreen(),
     );
   }
 }
