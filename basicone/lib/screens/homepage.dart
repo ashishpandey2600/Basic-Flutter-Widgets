@@ -23,45 +23,31 @@ class _HomePageState extends State<HomePage> {
             Container(
               margin: EdgeInsets.all(5),
               child: Image.network(
-                "https://images.pexels.com/photos/3806244/pexels-photo-3806244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://images.pexels.com/photos/1552932/pexels-photo-1552932.jpeg?auto=compress&cs=tinysrgb&w=800",
                 fit: BoxFit.cover,
               ),
             ),
             Container(
               margin: EdgeInsets.all(5),
               child: Image.network(
-                "https://images.pexels.com/photos/745767/pexels-photo-745767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://images.pexels.com/photos/3823/leaf-leaves-autumn-beech.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
                 fit: BoxFit.cover,
               ),
             ),
             Container(
               margin: EdgeInsets.all(5),
               child: Image.network(
-                "https://images.pexels.com/photos/2468568/pexels-photo-2468568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://images.pexels.com/photos/17646611/pexels-photo-17646611/free-photo-of-the-dark-hedges-avenue-in-ireland.jpeg?auto=compress&cs=tinysrgb&w=800",
                 fit: BoxFit.cover,
               ),
             ),
             Container(
               margin: EdgeInsets.all(5),
               child: Image.network(
-                "https://images.pexels.com/photos/3806244/pexels-photo-3806244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "https://images.pexels.com/photos/16611985/pexels-photo-16611985/free-photo-of-trees.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
                 fit: BoxFit.cover,
               ),
             ),
-            Container(
-              margin: EdgeInsets.all(5),
-              child: Image.network(
-                "https://images.pexels.com/photos/745767/pexels-photo-745767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-                fit: BoxFit.cover,
-              ),
-            ),
-            Container(
-              margin: EdgeInsets.all(5),
-              child: Image.network(
-                "https://images.pexels.com/photos/2468568/pexels-photo-2468568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-                fit: BoxFit.cover,
-              ),
-            )
           ],
         ),
       )),
